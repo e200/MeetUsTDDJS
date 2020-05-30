@@ -33,7 +33,9 @@ describe('Test class greater', () => {
       fullName: 'João Vicente',
       genre: 'M',
     }
+    
+    const greating = greater.great(person)
 
-    expect(greater.great(person)).toBe('Hello Mr. João Vicente')
+    expect(greating).toBe('Hello Mr. João Vicente')
   })
 })
