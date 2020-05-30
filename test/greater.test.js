@@ -1,7 +1,7 @@
 const Greater = require('../src/greater')
 
 describe('Test class greater', () => {
-  it('should class greater is imported', () => {
+  it('should check if class Greater is instanciable', () => {
     const greater = new Greater()
   })
 
