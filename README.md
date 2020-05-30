@@ -13,10 +13,7 @@ You need a nodeJS on your machine and make sure that you have npm on you machine
 - make a fork
 - clone your fork to your machine
 
-      ``
-      git clone your-fork-link
-
-  ``
+  `git clone https://github.com/e200/MeetUsTDDJS`
 
 - and run the following command on the root redictory
 
