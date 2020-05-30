@@ -14,6 +14,12 @@ describe('Test class greater', () => {
   it('should great a woman using the Mrs. title', () => {
     const greater = new Greater()
 
+    /**
+     * In a real project this should be a mock of the
+     * class Person and not a handmade object
+     *
+     * @url https://en.wikipedia.org/wiki/Mock_object
+     */
     const person = {
       firstName: 'Maria',
       lastName: 'Joana',
@@ -27,6 +33,12 @@ describe('Test class greater', () => {
   it('should great a man using the Mr. title', () => {
     const greater = new Greater()
 
+    /**
+     * In a real project this should be a mock of the
+     * class Person and not a handmade object
+     *
+     * @url https://en.wikipedia.org/wiki/Mock_object
+     */
     const person = {
       firstName: 'João',
       lastName: 'Vicente',
