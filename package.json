@@ -1,0 +1,16 @@
+{
+  "name": "people_greater",
+  "version": "0.0.1",
+  "description": "A package that greats people",
+  "main": "index.js",
+  "repository": "https://github.com/e200/people-greater",
+  "author": "Eleandro Duzentos",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
